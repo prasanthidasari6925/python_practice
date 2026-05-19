@@ -1,4 +1,4 @@
-#largest digit in a num
+#largest digit in a number
 num=int(input())
 num=abs(num)
 max_digit=0
